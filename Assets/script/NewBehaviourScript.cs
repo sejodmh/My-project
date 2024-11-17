@@ -10,6 +10,7 @@ public class NewBehaviourScript : MonoBehaviour
      int a =20;
      int b=50;
      Debug.Log(a*b);
+     i
     
 
         
